@@ -1,0 +1,21 @@
+
+Introduction to HTML
+:-
+    HTML stands for HyperText Markup Language.
+    HTML is used to create web pages and web applications.
+    HTML is widely used language on the web.
+    We can create a static website by HTML only.
+    Technically, HTML is a Markup language rather than a programming language.
+    We can use html for different purpose and easy to impliment in any website development work.
+HTML STRUCTURE
+:-
+           <!DOCTYPE>  
+       <html>  
+       <head>  
+       <title>Web page title</title>  
+       </head>  
+       <body>  
+       <h1>Write Your First Heading</h1>  
+       <p>Write Your First Paragraph.</p>  
+       </body>  
+       </html>  
